@@ -10,7 +10,7 @@ System requirements : VSCode, JDK
 [To Install JDK Click Here](https://www.oracle.com/java/technologies/downloads/)
 
 
-![Alt text](image.png)
+![Alt text](jdk-version.png)
 
 1.Run the Program: Execute the Java program (IncrementalBackupUI) by running the main method. The graphical user interface (GUI) will appear.
 
